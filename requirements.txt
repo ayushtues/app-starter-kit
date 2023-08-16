@@ -1,3 +1,7 @@
-streamlit
 langchain
+Requests
+streamlit
 replicate
+faiss-cpu
+huggingface_hub
+sentence_transformers
